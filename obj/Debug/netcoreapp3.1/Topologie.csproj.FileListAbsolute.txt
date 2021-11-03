@@ -1,0 +1,14 @@
+C:\Users\mayer\source\repos\Topologie\bin\Debug\netcoreapp3.1\Topologie.exe
+C:\Users\mayer\source\repos\Topologie\bin\Debug\netcoreapp3.1\Topologie.deps.json
+C:\Users\mayer\source\repos\Topologie\bin\Debug\netcoreapp3.1\Topologie.runtimeconfig.json
+C:\Users\mayer\source\repos\Topologie\bin\Debug\netcoreapp3.1\Topologie.runtimeconfig.dev.json
+C:\Users\mayer\source\repos\Topologie\bin\Debug\netcoreapp3.1\Topologie.dll
+C:\Users\mayer\source\repos\Topologie\bin\Debug\netcoreapp3.1\Topologie.pdb
+C:\Users\mayer\source\repos\Topologie\obj\Debug\netcoreapp3.1\Topologie.csprojAssemblyReference.cache
+C:\Users\mayer\source\repos\Topologie\obj\Debug\netcoreapp3.1\Topologie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayer\source\repos\Topologie\obj\Debug\netcoreapp3.1\Topologie.AssemblyInfoInputs.cache
+C:\Users\mayer\source\repos\Topologie\obj\Debug\netcoreapp3.1\Topologie.AssemblyInfo.cs
+C:\Users\mayer\source\repos\Topologie\obj\Debug\netcoreapp3.1\Topologie.csproj.CoreCompileInputs.cache
+C:\Users\mayer\source\repos\Topologie\obj\Debug\netcoreapp3.1\Topologie.dll
+C:\Users\mayer\source\repos\Topologie\obj\Debug\netcoreapp3.1\Topologie.pdb
+C:\Users\mayer\source\repos\Topologie\obj\Debug\netcoreapp3.1\Topologie.genruntimeconfig.cache

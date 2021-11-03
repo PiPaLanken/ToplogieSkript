@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sJ+7blQ/mVlVUoSSwj98EOeqmY95ryrWp1ohLkdNMWh2QSAMkRk0/Nv1vFccSETsdFrU3SieUxZj0571ts8S5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mayer\\source\\repos\\Topologie\\Topologie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mayer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
